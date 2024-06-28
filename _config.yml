@@ -35,10 +35,9 @@ logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/checkIn97
 google_site_verification: xxxxx
-lang: en
+lang: ko
 
 sass:
   sass_dir: _sass
