@@ -3,7 +3,7 @@ layout: post
 categories: [Projects]
 title: 머신러닝 기반 캠핑장 추천 웹애플리케이션 'CampingNavi'
 date: 2024-07-03 15:41:06 +0800
-last_modified_at: 2024-07-03 15:41:06 +0800
+last_modified_at: 2024-07-03 16:34:06 +0800
 toc:  true
 ---
 <h1>Project Overview</h1>
